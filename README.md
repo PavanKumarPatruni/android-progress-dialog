@@ -9,7 +9,7 @@
     customProgessDialog.setCancelable(false);
     customProgessDialog.show();
 
-<b>To dismiss/cancel the progress dialog</b><br/>
+<b>dismiss/cancel the progress dialog</b><br/>
 
 
     customProgessDialog.dismiss();
